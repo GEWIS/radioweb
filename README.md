@@ -1,5 +1,8 @@
 # Intro Radio Frontend
 
+> [!IMPORTANT]
+> This repository has moved. Development continues at [GEWIS/intro-radio](https://github.com/GEWIS/intro-radio) (as `frontend/`), which merges this repo with GEWIS/radiogaga into one monorepo with full history preserved. This repo is archived and read-only.
+
 [![Lint and build](https://github.com/GEWIS/radioweb/actions/workflows/lint-and-build.yml/badge.svg)](https://github.com/GEWIS/radioweb/actions/workflows/lint-and-build.yml)
 [![Docker Build](https://github.com/GEWIS/radioweb/actions/workflows/docker-build.yml/badge.svg)](https://github.com/GEWIS/radioweb/actions/workflows/docker-build.yml)
 [![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](LICENSE)
